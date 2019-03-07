@@ -16,7 +16,6 @@ namespace HelloWorld
                 hw.helloWorld(args);
                 HelloWorld02.helloWorld(args);
             }
-            
         }
     }
 }
