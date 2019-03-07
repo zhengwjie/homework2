@@ -1,6 +1,6 @@
 # homework02
-## 1.作业一跟作业二
-   在HelloWorld文件夹中，其中创建了两个类HelloWorld01与HelloWorld02，两个都是在接收命令行参数，然后输出命令行参数，中间用空格隔开。两个类中一个helloWorld方法是非静态的，另外一个类中的是静态的，在HelloWorld02中，先实例化一个helloWorld01的类，然后调用的它的非静态的helloWorld方法。
+## 1.作业一跟作业二(HelloWorld)
+   在文件夹中，创建了两个类HelloWorld01与HelloWorld02，两个都是在接收命令行参数，然后输出命令行参数，中间用空格隔开。两个类中一个helloWorld方法是非静态的，另外一个类中的是静态的，在HelloWorld02中，先实例化一个helloWorld01的类，然后调用的它的非静态的helloWorld方法。
 ![](pictures/1-2.PNG "1-2")
 ## 2.(HelloWorld03)作业三
     一个WPF应用程序，使用了Label,TextBox,与Button的控件，在TextBox中输入用户姓名后，单击Button之后，便弹出Hello,username的对话框。
